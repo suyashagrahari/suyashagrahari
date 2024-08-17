@@ -45,15 +45,12 @@ A feature-rich blogging platform with user authentication
 - Technologies: React, Node.js, Express, MongoDB, Redux, Tailwind CSS
 
 ## GitHub Stats:
-
 ![Suyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=suyashagrahari&show_icons=true&theme=radical)
 
 ## Most Used Languages
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyashagrahari&layout=compact&theme=radical)
 
 ## GitHub Contributions
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suyashagrahari&theme=radical)
 
 ## Experience Highlights
