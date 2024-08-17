@@ -44,21 +44,6 @@ A feature-rich blogging platform with user authentication
 - [GitHub Repo](https://github.com/suyashagrahari/Mern_Blog_Website)
 - Technologies: React, Node.js, Express, MongoDB, Redux, Tailwind CSS
 
-## GitHub Contributions
-
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=suyashagrahari&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-## Contribution Graph
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=suyashagrahari&theme=react-dark)
-
-## Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suyashagrahari&theme=radical)
-
-## Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suyashagrahari&layout=compact&theme=radical)
 
 ## Experience Highlights
 
