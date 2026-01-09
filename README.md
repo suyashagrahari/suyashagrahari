@@ -2,9 +2,9 @@
   
 # 👋 Hi, I'm Suyash Agrahari
 
-### Software Engineer @ HireQuotient | Full-Stack Developer | AI Automation Specialist
+### Software Engineer @ HireQuotient | Full-Stack Developer | Generative AI Specialist
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Scalable+AI-Powered+Solutions;MERN+Stack+%7C+TypeScript+%7C+AWS+Expert;2%2B+Years+of+Production+Experience;10K%2B+Users+Served+%7C+4.4M+Monthly+Traffic" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Building+Autonomous+AI+Agent+Systems;Generative+AI+%7C+Multi-Agent+Orchestration;MERN+Stack+%7C+TypeScript+%7C+AWS+Expert;2%2B+Years+of+Production+Experience;4.4M+Users+%7C+93%25+Performance+Gains" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suyash-agrahari)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suyashagrahari2121@gmail.com)
@@ -18,19 +18,23 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-🎯 **Software Engineer** building AI-powered solutions at **HireQuotient**
+🎯 **Software Engineer** building **AI-powered solutions** at **HireQuotient**
 
-💼 **2+ years** of production experience in full-stack development
+🤖 **Generative AI Specialist** - Expert in building **Autonomous Multi-Agent Systems** and **AI Orchestration**
+
+💼 **2+ years** of production experience in **full-stack development** and **AI automation**
 
 🌍 Based in **Bengaluru, India** 🇮🇳
 
-🔭 Currently working on **enterprise automation systems** and **scalable cloud infrastructure**
+🔭 Currently working on **enterprise automation systems**, **scalable cloud infrastructure**, and **intelligent AI agents**
 
-🌱 Learning **Agentic AI Development**, **Advanced Kubernetes**, and **Microservices Architecture**
+🌱 Learning **Agentic AI Development**, **Advanced Kubernetes**, **Model Context Protocol**, and **Microservices Architecture**
 
-💡 Passionate about **performance optimization**, **AI automation**, and **building systems that scale**
+💡 Passionate about **performance optimization**, **AI automation**, **multi-agent orchestration**, and **building systems that scale**
 
-⚡ Fun fact: **Scaled an application from 40K to 4.4M users** - that's 11,000% growth! 🚀
+⚡ **Fun fact:** Scaled an application from **40K to 4.4M users** - that's **11,000% growth**! 🚀
+
+🏆 Built **autonomous AI agent system** that improved candidate matching accuracy by **65%** through **self-optimization**!
 
 ---
 
@@ -43,21 +47,24 @@
 ### 🎯 Impact Metrics
 - 🚀 **4.4M** monthly users served
 - ⚡ **93%** API performance improvement
-- 🤖 **75%** workload reduction via automation
-- 📊 **10K+** contacts processed
+- 🤖 **75%** workload reduction via AI automation
+- 📊 **10K+** contacts processed by AI agents
 - 🔧 **70+** AI tool integrations deployed
 - 📈 **65%** candidate matching accuracy boost
+- 🎨 **90+** AI-powered resume templates
 
 </td>
 <td width="50%">
 
 ### 🏆 Key Achievements
-- Built enterprise automation platform using n8n, Docker & AWS
-- Scaled serverless app from 40K to 4.4M users
-- Optimized critical API from 29s to 1.5s response time
-- Developed cross-platform mobile apps (Android & iOS)
-- Created AI-powered candidate matching system
-- Launched AI resume builder with 90+ templates
+- Built **autonomous multi-agent system** with A2A protocol
+- Engineered **enterprise AI automation platform** (n8n, Docker, AWS)
+- Scaled **serverless app from 40K to 4.4M users**
+- Optimized critical API from **29s to 1.5s** response time
+- Developed **cross-platform mobile apps** (Android & iOS)
+- Created **AI-powered candidate matching system**
+- Launched **AI resume builder** in 20 days
+- Integrated **LangChain, LangGraph, GPT-4o, Gemini**
 
 </td>
 </tr>
@@ -73,6 +80,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
@@ -82,54 +90,102 @@
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🤖 AI & Automation
+### 🤖 Generative AI & LLM
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
 
 ### 🗄️ Databases & Caching
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge)
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-### 💻 Languages
+### 💻 Languages & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🔧 Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 </div>
 
 ---
 
-## 🧠 Generative AI & LLM Expertise
+## 🧠 Generative AI & Multi-Agent Expertise
 
 <div align="center">
   
-<img src="https://img.shields.io/badge/Specialized_in-Generative_AI-FF6B6B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Multi_Agent-Systems-2E9EF7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LLM-Engineering-4EA94B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🤖_Autonomous-Multi_Agent_Systems-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🧠_Generative-AI_Specialist-2E9EF7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/⚡_LLM-Engineering-4EA94B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🔗_Agent_to_Agent-Protocol-FFD700?style=for-the-badge" />
 
 </div>
 
-### 🤖 AI Agent Architecture & Frameworks
+### 🤖 AI Agent Architecture & Orchestration
+
+<div align="center">
+
+```mermaid
+%%{init: {'theme':'dark'}}%%
+graph TB
+    subgraph "🤖 Autonomous Multi-Agent Ecosystem"
+        A[User Input] --> B[Orchestrator Agent]
+        B --> C{Intelligent Routing}
+        
+        C -->|Code Generation| D[Code Generator Agent]
+        C -->|Content Creation| E[Blog Writer Agent]
+        C -->|Task Management| F[Task Manager Agent]
+        C -->|Quality Control| G[Code Review Agent]
+        
+        D --> H[Live Preview Rendering]
+        E --> I[Content Editing Agent]
+        I --> J[Content Storage]
+        
+        G --> K[Self-Healing Loop]
+        K -->|95%+ Quality| L[Refined Output]
+        
+        F --> M[Multi-Step Workflow]
+        M --> N[Final Integration]
+        
+        subgraph "🧠 AI Core Layer"
+            O[LangChain]
+            P[LangGraph State Machines]
+            Q[GPT-4o / GPT-5]
+            R[Function Calling]
+        end
+        
+        B -.-> O
+        B -.-> P
+        D -.-> Q
+        E -.-> Q
+        F -.-> R
+    end
+    
+    style A fill:#2E9EF7
+    style B fill:#FF6B6B
+    style C fill:#FFD700
+    style O fill:#412991
+    style P fill:#FF6B6B
+    style Q fill:#4EA94B
+```
+
+</div>
 
 <table width="100%">
 <tr>
@@ -143,30 +199,32 @@ Multi-Agent Orchestration:
   ├─ JSON-RPC 2.0 Standards
   └─ Dynamic Capability Discovery
 
-Autonomous Agents Built:
-  ├─ Orchestrator Agent (Routing)
-  ├─ Task Manager Agent
-  ├─ Content Generation Agents
-  ├─ Code Review Agent (Self-Healing)
-  ├─ Recruitment Copilot Agent
-  └─ LinkedIn Follow-up Agent
+10 Autonomous Agents Built:
+  ├─ 🎯 Orchestrator Agent (Intelligent Routing)
+  ├─ 📋 Task Manager Agent (Workflow Coordination)
+  ├─ ✍️ Blog Writer Agent (Content Generation)
+  ├─ ✏️ Content Editor Agent (Refinement)
+  ├─ 💻 Code Generator Agent (Live Preview)
+  ├─ 🔍 Code Review Agent (Self-Healing)
+  ├─ 🎨 Landing Page Generator
+  ├─ 🤝 Recruitment Copilot Agent
+  ├─ 📧 LinkedIn Follow-up Agent
+  └─ 🎤 Interview Automation Agent
 
 Tool Orchestration:
   ├─ Function Calling
   ├─ Tool Calling
   ├─ Iterative Feedback Loops
-  └─ Self-Optimization
+  └─ Self-Optimization (65% improvement!)
 ```
-
-**Key Achievement:** Built autonomous system with **65% accuracy improvement** through self-optimization!
 
 </td>
 <td width="50%" valign="top">
 
-#### 🎨 LLM Frameworks & APIs
+#### 🎨 LLM Integration & APIs
 ```yaml
 Core Frameworks:
-  ├─ LangChain (Orchestration)
+  ├─ LangChain (Tool Orchestration)
   ├─ LangGraph (State Management)
   ├─ OpenAI SDK (GPT-4o, GPT-5)
   ├─ Google ADK (Gemini API)
@@ -174,19 +232,23 @@ Core Frameworks:
 
 Model Integration:
   ├─ GPT-4o / GPT-4o-mini
-  ├─ GPT-5 (Latest)
+  ├─ GPT-5 (Latest Models)
   ├─ Gemini Pro / Flash
   ├─ Claude Sonnet
   └─ Custom Fine-tuned Models
 
-APIs & SDKs:
-  ├─ OpenAI API
-  ├─ Gemini API
+Production APIs:
+  ├─ OpenAI API (Function Calling)
+  ├─ Gemini API (Multi-modal)
   ├─ Anthropic API
-  └─ Hugging Face API
-```
+  └─ Hugging Face Inference API
 
-**Tech Stack:** 70+ AI tools integrated with **35% traffic growth**
+RAG & Vector Systems:
+  ├─ Pinecone (Vector Database)
+  ├─ ChromaDB (Embeddings)
+  ├─ Semantic Search
+  └─ Context Management
+```
 
 </td>
 </tr>
@@ -194,38 +256,40 @@ APIs & SDKs:
 
 ---
 
-### 🔬 Advanced AI/ML Techniques
+### 🔬 Advanced AI/ML Techniques & Transformers
 
 <div align="center">
 
 ```mermaid
 %%{init: {'theme':'dark'}}%%
-graph TB
-    subgraph "🧠 Generative AI Pipeline"
-        A[Input Processing] --> B{AI Technique}
-        
-        B -->|Fine-tuning| C[LoRA/QLoRA]
-        B -->|Generation| D[Prompt Engineering]
-        B -->|Retrieval| E[RAG Systems]
-        B -->|Understanding| F[Transformers]
-        
-        C --> G[Optimized Models]
-        D --> H[Context-Aware Outputs]
-        E --> I[Knowledge-Enhanced Responses]
-        F --> J[Semantic Understanding]
-        
-        G --> K[Production Deployment]
-        H --> K
-        I --> K
-        J --> K
-        
-        K --> L[Real-time AI Applications]
-    end
+graph LR
+    A[Generative AI Pipeline] --> B[Fine-tuning]
+    A --> C[RAG Systems]
+    A --> D[Transformers]
+    A --> E[Prompt Engineering]
     
-    style A fill:#2E9EF7
+    B --> B1[LoRA]
+    B --> B2[QLoRA]
+    B --> B3[Parameter Efficient]
+    
+    C --> C1[Vector DBs]
+    C --> C2[Embeddings]
+    C --> C3[Semantic Search]
+    
+    D --> D1[BERT Models]
+    D --> D2[GPT Architecture]
+    D --> D3[Attention Mechanisms]
+    D --> D4[Encoder-Decoder]
+    
+    E --> E1[Context Optimization]
+    E --> E2[Few-shot Learning]
+    E --> E3[Chain-of-Thought]
+    
+    style A fill:#412991
     style B fill:#FF6B6B
-    style K fill:#4EA94B
-    style L fill:#FFD700
+    style C fill:#4EA94B
+    style D fill:#FFD700
+    style E fill:#2E9EF7
 ```
 
 </div>
@@ -237,10 +301,11 @@ graph TB
 ### 🎯 Fine-tuning & Optimization
 - **LoRA** (Low-Rank Adaptation)
 - **QLoRA** (Quantized LoRA)
-- Parameter-Efficient Fine-tuning
-- Model Compression Techniques
+- Parameter-Efficient Fine-tuning (PEFT)
+- Model Compression & Quantization
 - Domain-Specific Adaptation
-- Transfer Learning
+- Transfer Learning Strategies
+- Custom Model Training
 
 </td>
 <td width="33%" valign="top">
@@ -249,41 +314,26 @@ graph TB
 - **Retrieval Augmented Generation**
 - Vector Databases (Pinecone, Chroma)
 - Semantic Search Implementation
-- Embedding Models
-- Document Chunking Strategies
+- Embedding Models (text-embedding-3)
+- Document Chunking & Processing
 - Context Window Management
+- Hybrid Search (Dense + Sparse)
 
 </td>
 <td width="33%" valign="top">
 
-### 🤖 Transformers & Models
-- Transformer Architecture
-- Attention Mechanisms
-- BERT, GPT, T5 Models
+### 🤖 Transformers & Architecture
+- Transformer Architecture Deep Dive
+- Multi-Head Attention Mechanisms
+- BERT, GPT, T5 Model Families
 - Encoder-Decoder Systems
-- Token Generation
+- Token Generation Strategies
 - Model Context Protocol (MCP)
+- Positional Encoding
 
 </td>
 </tr>
 </table>
-
----
-
-### 🔧 AI Engineering Tools & Technologies
-
-<div align="center">
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graph&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge)
-![Guardrails](https://img.shields.io/badge/Guardrails_AI-2E7D32?style=for-the-badge)
-
-</div>
 
 ---
 
@@ -293,12 +343,12 @@ graph TB
 
 ```mermaid
 %%{init: {'theme':'dark'}}%%
-pie title AI/ML Technology Distribution
+pie title Generative AI Technology Expertise
     "LangChain/LangGraph" : 30
     "OpenAI & Gemini APIs" : 25
-    "RAG & Vector DBs" : 20
-    "Transformers & Models" : 15
-    "Fine-tuning & Optimization" : 10
+    "Multi-Agent Systems" : 20
+    "RAG & Vector DBs" : 15
+    "Transformers & Fine-tuning" : 10
 ```
 
 </div>
@@ -312,19 +362,20 @@ pie title AI/ML Technology Distribution
 LangChain           ███████████████████░   95%
 LangGraph           ██████████████████░░   90%
 Multi-Agent Systems ███████████████████░   95%
+A2A Protocol        ██████████████████░░   90%
 Tool Orchestration  ████████████████████  100%
 Function Calling    ████████████████████  100%
-A2A Protocol        ██████████████████░░   90%
+State Machines      ██████████████████░░   90%
 ```
 
-**🎨 LLM Integration**
+**🎨 LLM Integration & APIs**
 ```text
 OpenAI SDK          ████████████████████  100%
 Gemini API          ██████████████████░░   90%
 GPT-4o/GPT-5        ███████████████████░   95%
 Prompt Engineering  ███████████████████░   95%
 Context Management  ██████████████████░░   90%
-API Orchestration   ████████████████████  100%
+Streaming Responses ██████████████████░░   90%
 ```
 
 </td>
@@ -338,6 +389,7 @@ Fine-tuning (LoRA)  ████████████████░░░░
 Embeddings          ██████████████████░░   90%
 Semantic Search     █████████████████░░░   85%
 Vector Databases    █████████████████░░░   85%
+Model Optimization  ████████████████░░░░   80%
 ```
 
 **🛡️ AI Safety & Quality**
@@ -347,6 +399,7 @@ Output Validation   ██████████████████░░
 Error Detection     ███████████████████░   95%
 Self-Healing Agents ██████████████████░░   90%
 Quality Assurance   ███████████████████░   95%
+Iterative Refinement ███████████████████░  95%
 ```
 
 </td>
@@ -355,61 +408,24 @@ Quality Assurance   ███████████████████░
 
 ---
 
-### 🎯 Real-World AI Implementations
+### 🎯 Real-World Generative AI Impact
 
 <div align="center">
 
-| 🤖 AI System | 🔧 Technologies | 📊 Impact |
-|:-------------|:----------------|:----------|
-| **Autonomous Candidate Matching** | LangGraph + LangChain + GPT-4o | **65%** accuracy improvement |
-| **AI Copilot Agent** | OpenAI SDK + Function Calling | **70%** manual task reduction |
-| **Multi-Channel Automation** | n8n + OpenAI + Gemini APIs | **10K+** contacts processed |
-| **Self-Healing Code Review** | GPT-5 + Iterative Refinement | **95%+** code quality |
-| **Intelligent Follow-up Agent** | Puppeteer + Pattern Analysis | **50%** response rate boost |
+| 🤖 AI System | 🔧 Technologies Used | 📊 Measurable Impact | ⚡ Key Feature |
+|:-------------|:--------------------|:--------------------|:---------------|
+| **Autonomous Candidate Matching** | LangGraph + LangChain + GPT-4o | **65%** accuracy improvement | Self-optimization through feedback loops |
+| **AI Copilot Agent** | OpenAI SDK + Function Calling | **70%** task reduction | Natural language automation |
+| **Multi-Channel Outreach** | n8n + OpenAI + Gemini APIs | **10K+** contacts processed | AI-powered personalization |
+| **Self-Healing Code Review** | GPT-5 + Iterative Refinement | **95%+** code quality | Automatic error detection & fixing |
+| **Intelligent Follow-up** | Puppeteer + Pattern Analysis | **50%** response boost | Behavioral tracking & decisions |
+| **Blog Generation System** | LangChain + GPT-4o | 4-step automated workflow | Keyword → Write → Edit → Publish |
 
 </div>
 
 ---
 
-### 🔄 AI Agent Workflow Architecture
-
-<div align="center">
-
-```mermaid
-%%{init: {'theme':'dark'}}%%
-sequenceDiagram
-    participant User
-    participant Orchestrator
-    participant TaskManager
-    participant AIModels
-    participant Tools
-    participant Database
-    
-    User->>Orchestrator: Request (Natural Language)
-    Orchestrator->>Orchestrator: Analyze Intent
-    Orchestrator->>TaskManager: Delegate Task
-    
-    TaskManager->>AIModels: LLM Call (GPT-4o/Gemini)
-    AIModels->>TaskManager: Generated Response
-    
-    TaskManager->>Tools: Execute Function Calling
-    Tools->>Database: Store/Retrieve Data
-    Database->>Tools: Return Results
-    
-    Tools->>TaskManager: Tool Execution Results
-    TaskManager->>Orchestrator: Compiled Output
-    
-    Orchestrator->>Orchestrator: Quality Check & Optimization
-    Orchestrator->>User: Final Response
-    
-    Note over Orchestrator,Database: Self-Healing & Iterative Refinement
-```
-
-</div>
-
----
-
-## 📊 Skill Proficiency
+## 📊 Full-Stack Development Proficiency
 
 <table width="100%">
 <tr>
@@ -445,13 +461,12 @@ CI/CD            ██████████████████░░   
 Nginx            ███████████████████░   95%
 ```
 
-**AI & Data**
+**Databases**
 ```text
-LangChain        ██████████████████░░   90%
 MongoDB          ████████████████████  100%
 PostgreSQL       ███████████████████░   95%
 Redis            ██████████████████░░   90%
-Vector DB        ████████████████░░░░   80%
+Vector DBs       ████████████████░░░░   80%
 ```
 
 </td>
@@ -481,14 +496,6 @@ Vector DB        ████████████████░░░░   
 
 </div>
 
-<div align="center">
-
-<a href="https://github.com/suyashagrahari">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=suyashagrahari&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-</a>
-
-</div>
-
 ---
 
 ## 🏢 Professional Experience
@@ -498,15 +505,21 @@ Vector DB        ████████████████░░░░   
 ### 💼 Software Engineer @ HireQuotient
 **📅 May 2024 - Present | 📍 Bengaluru, India**
 
-**🎯 Key Achievements:**
-- ⚡ Optimized API performance by **93%** (29s → 1.5s)
-- 📈 Scaled application to **4.4M monthly users** (11,000% growth)
-- 🤖 Built AI automation processing **10,000+ contacts**
-- 📱 Launched cross-platform mobile apps on **Google Play Store**
-- 🎨 Created AI resume builder with **90+ templates**
-- 🔧 Integrated **70+ AI-powered workflow tools**
+**🎯 Generative AI & Agent Development:**
+- 🧠 Engineered **autonomous AI agent system** using **LangGraph state machines** and **LangChain tool calling** for intelligent candidate matching
+- 🎯 Achieved **65% improvement in matching accuracy** through **iterative self-optimization** and feedback loops
+- 🤖 Created **AI-powered copilot agent** using **OpenAI SDK** and **function calling** for natural language recruitment automation
+- 📉 Delivered **70% reduction in manual tasks** through tool orchestration and AI insights generation
+- 🔧 Integrated **70+ AI tools** leveraging **OpenAI API**, **Gemini API**, and **LangChain** achieving **35% website traffic growth**
+- 📧 Implemented **intelligent LinkedIn follow-up agent** using **Puppeteer**, **RabbitMQ**, and **event-driven architecture** improving response rates by **50%**
 
-**💻 Tech Stack:** Node.js, React.js, Docker, AWS, MongoDB, LangChain, n8n
+**⚡ Performance & Scale:**
+- 🚀 Optimized backend API from **29s to 1.5s** (**93% improvement**) using MongoDB aggregation, Redis caching, and async patterns
+- 📈 Scaled serverless YouTube downloader from **40K to 4.4M monthly users** (**11,000% growth**)
+- 🛠️ Developed **AI automation platform** using **n8n**, **Docker**, and **AWS EC2** processing **10,000+ contacts**
+- 🎨 Launched **AI resume builder** with **90+ ATS-friendly templates** in 20 days
+
+**💻 Tech Stack:** Node.js, React.js, Docker, AWS, MongoDB, LangChain, LangGraph, OpenAI API, Gemini API, n8n
 
 ---
 
@@ -530,7 +543,122 @@ The LNM Institute of Information Technology, Jaipur
 
 ## 🌟 Featured Projects
 
+<div align="center">
+
+### 🏆 Flagship Generative AI Projects
+
+</div>
+
 <table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Autonomous Multi-Agent System with A2A Protocol
+**LangChain | LangGraph | GPT-4o | Next.js 16**
+
+<div align="center">
+<img src="https://img.shields.io/badge/Status-Production-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Agents-10-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/A2A_Protocol-Implemented-purple?style=flat-square" />
+</div>
+
+**Autonomous multi-agent system with decentralized architecture:**
+
+🤖 **10 Specialized Autonomous Agents:**
+- Orchestrator Agent (Intelligent Routing)
+- Task Manager Agent (Workflow Coordination)
+- Blog Writer Agent (Content Generation)
+- Content Editor Agent (Refinement)
+- Code Generator Agent (Live Code Preview)
+- Code Review Agent (Self-Healing)
+- Landing Page Generator
+- Interview Automation Agent
+
+🔗 **A2A Protocol Implementation:**
+- JSON-RPC 2.0 standards
+- Dynamic capability discovery
+- Agent-to-Agent communication
+- Plug-and-play architecture
+
+🧠 **AI Orchestration:**
+- LangGraph state machines
+- OpenAI function calling
+- Stateful conversations with BufferMemory
+- Multi-step workflow automation
+
+🛠️ **Self-Healing Code Review:**
+- Iterative error detection
+- Automatic syntax fixing
+- React hooks validation
+- Tailwind CSS optimization
+- **95%+ code quality improvement**
+
+💻 **Tech Stack:**
+- Express.js, Next.js 16, TypeScript
+- MongoDB, OpenAI SDK (GPT-4o, GPT-5)
+- LangChain, Function Calling
+- Real-time chat interface
+
+**Multi-Step Workflow Example:**
+```
+Blog Generation: 
+Keyword Extraction → Writing → Editing → Persistence
+```
+
+**[View Project →](https://github.com/suyashagrahari)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🎤 AI-Powered Interview Platform
+**OpenAI API | Next.js | Kokoro TTS**
+
+<div align="center">
+<img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Accuracy-95%25-green?style=flat-square" />
+<img src="https://img.shields.io/badge/AI_Powered-Yes-blue?style=flat-square" />
+</div>
+
+**AI-driven interview automation with real-time proctoring:**
+
+🤖 **Intelligent Interview Automation:**
+- Dynamic questions based on JD, resume & context
+- Adaptive conversation flow
+- AI-powered contextual questioning
+- Natural language understanding
+
+🗣️ **Voice Integration:**
+- Text-to-Speech (Kokoro TTS)
+- Natural voice interactions
+- Real-time audio processing
+
+📊 **Analytics Engine:**
+- Comprehensive performance reports
+- Candidate strengths/weaknesses analysis
+- Performance scoring algorithms
+- Detailed feedback generation
+
+🔒 **Anti-Cheating System (95%+ accuracy):**
+- Real-time face detection
+- Tab switching monitoring
+- Copy-paste detection
+- Suspicious behavior tracking
+
+🧠 **AI Features:**
+- OpenAI function calling
+- Context retention across conversation
+- Intelligent navigation
+- Adaptive difficulty adjustment
+
+💻 **Tech Stack:**
+- Next.js, Node.js, MongoDB
+- OpenAI API, Kokoro TTS
+- Function Calling, Stateful Conversations
+
+**[View Project →](https://github.com/suyashagrahari)**
+
+</td>
+</tr>
 <tr>
 <td width="50%">
 
@@ -539,9 +667,10 @@ The LNM Institute of Information Technology, Jaipur
 
 Enterprise automation system processing 10,000+ contacts with:
 - Multi-channel outreach (Email, SMS, LinkedIn)
-- AI-powered message personalization
+- AI-powered message personalization using Gemini & OpenAI
 - 75% reduction in manual workload
 - Self-hosted infrastructure optimization
+- Intelligent candidate matching
 
 </td>
 <td width="50%">
@@ -554,6 +683,7 @@ YouTube media downloader supporting:
 - Quality options (360p - 1080p)
 - Scaled from 40K to 4.4M monthly users
 - 11,000% traffic growth achieved
+- Serverless architecture at scale
 
 </td>
 </tr>
@@ -568,6 +698,7 @@ Android & iOS applications featuring:
 - 40% increase in user engagement
 - Responsive UI/UX design
 - Real-time data synchronization
+- Push notifications
 
 </td>
 <td width="50%">
@@ -580,6 +711,7 @@ Backend optimization project achieving:
 - MongoDB aggregation pipeline optimization
 - Redis caching implementation
 - Asynchronous Promise.all() patterns
+- Load balancing
 
 </td>
 </tr>
@@ -625,28 +757,31 @@ Backend optimization project achieving:
 <td width="33%" valign="top">
 
 ### 📚 Learning
-- 🤖 Agentic AI with LangGraph
+- 🤖 Advanced Agentic AI (LangGraph)
+- 🔗 Model Context Protocol (MCP)
 - ☸️ Advanced Kubernetes
 - 🏗️ Microservices Patterns
-- ☁️ Cloud-Native Design
+- 🧪 AI Agent Testing Frameworks
 
 </td>
 <td width="33%" valign="top">
 
 ### 🛠️ Building
-- 🔄 Enterprise automation
-- 🎯 AI recruitment tools
-- 📊 Scalable infrastructure
-- ⚡ Performance solutions
+- 🔄 Distributed Multi-Agent Networks
+- 🎯 Production AI Recruitment Tools
+- 📊 Scalable AI Infrastructure
+- ⚡ Real-time AI Processing
+- 🎨 Generative UI Systems
 
 </td>
 <td width="33%" valign="top">
 
 ### 🔍 Exploring
-- 🗄️ Vector Databases (RAG)
-- 📡 Event-Driven Architecture
-- 🚀 Serverless at Scale
-- ✍️ Technical Writing
+- 🗄️ Advanced RAG Architectures
+- 📡 Event-Driven AI Systems
+- 🚀 AI at Serverless Scale
+- ✍️ AI-Assisted Technical Writing
+- 🔬 Fine-tuning Optimization
 
 </td>
 </tr>
@@ -658,33 +793,65 @@ Backend optimization project achieving:
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- Coming Soon: Building Scalable AI Automation Systems
+- Coming Soon: Building Autonomous Multi-Agent Systems with A2A Protocol
 - Coming Soon: From 40K to 4.4M Users - A Scaling Journey
-- Coming Soon: Optimizing Node.js APIs for Production
+- Coming Soon: Advanced LangGraph Patterns for Production AI
+- Coming Soon: Optimizing Node.js APIs for Enterprise Scale
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
 ## 💬 Ask Me About
 
-- 🚀 Full-Stack Development with MERN Stack
-- 🤖 AI Integration & Automation (LangChain, LangGraph)
-- ☁️ Cloud Architecture & AWS Services
-- 🐳 Docker & Kubernetes Orchestration
+<table>
+<tr>
+<td width="50%">
+
+**🤖 Generative AI & Agents**
+- 🔗 Multi-Agent System Architecture
+- 🧠 LangChain & LangGraph Orchestration
+- 📡 Agent-to-Agent (A2A) Protocols
+- 🤖 Autonomous Agent Development
+- ⚙️ Tool Calling & Function Calling
+- 🔍 RAG Implementation & Optimization
+- ✍️ Advanced Prompt Engineering
+- 🎯 Fine-tuning (LoRA/QLoRA)
+- 🗄️ Vector Databases & Embeddings
+
+</td>
+<td width="50%">
+
+**💻 Full-Stack & Cloud**
+- 🚀 MERN Stack Development
+- ⚛️ Next.js 16 & React Server Components
+- ☁️ AWS Serverless Architecture
 - ⚡ API Performance Optimization
-- 📱 Cross-Platform Mobile Development
-- 🔄 CI/CD Pipeline Implementation
-- 🎯 Building Scalable Systems
+- 🐳 Docker & Kubernetes
+- 🔄 Real-Time Systems (WebSockets)
+- 🏗️ Scalable System Design
+- 🔐 Security Best Practices
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect & Collaborate!
 
-I'm always interested in collaborating on innovative projects, especially those involving:
-- 🤖 AI-powered applications and automation
-- ☁️ Cloud-native architecture and scalability
-- 🚀 Performance optimization challenges
-- 🌐 Full-stack development opportunities
+<div align="center">
+
+I'm actively seeking opportunities in **AI Engineering**, **Generative AI Development**, and **Multi-Agent Systems**!
+
+### 🎯 Open to Collaborate On:
+
+- 🤖 **Autonomous Multi-Agent Systems** - Building intelligent, self-optimizing agent networks
+- 🧠 **Advanced RAG Systems** - Enterprise-grade retrieval and generation pipelines
+- 🔗 **Agent Orchestration Platforms** - Scalable AI workflow automation
+- ☁️ **AI Infrastructure** - Cloud-native architecture for AI at scale
+- 🎯 **LLM Applications** - Production-ready generative AI solutions
+
+</div>
 
 <div align="center">
 
@@ -725,7 +892,9 @@ I'm always interested in collaborating on innovative projects, especially those 
 
 ### ⭐️ From [suyashagrahari](https://github.com/suyashagrahari)
 
-**"Building scalable solutions, one commit at a time."** 🚀
+**"Building autonomous AI systems that don't just automate tasks, but intelligently optimize themselves."** 🚀🤖
+
+*Specialized in Generative AI • Multi-Agent Orchestration • Production-Scale Systems*
 
 </div>
 
@@ -735,13 +904,15 @@ I'm always interested in collaborating on innovative projects, especially those 
   
 ## 🎯 2025 Goals
 
-- [ ] Contribute to 10+ open-source projects
-- [ ] Build and launch 3 production-ready AI applications
-- [ ] Write 20+ technical blog posts
-- [ ] Mentor 5+ aspiring developers
-- [ ] Achieve AWS Solutions Architect certification
-- [ ] Scale personal projects to 100K+ users
+- [ ] Build and deploy **5 production-ready autonomous multi-agent systems**
+- [ ] Contribute to **10+ open-source AI/ML projects**
+- [ ] Write **20+ in-depth technical blog posts** on AI engineering
+- [ ] Mentor **5+ aspiring AI engineers**
+- [ ] Achieve **AWS Solutions Architect Professional** certification
+- [ ] Scale personal AI projects to **100K+ active users**
+- [ ] Master **Model Context Protocol (MCP)** implementation
+- [ ] Launch comprehensive **AI Agent Framework**
 
-**"The best way to predict the future is to create it."** - Peter Drucker
+**"The future belongs to those who build intelligent systems that build themselves."** 🚀
 
 </div>
