@@ -205,9 +205,9 @@ graph TB
     A[User Request] --> SEC
     
     subgraph Security["🔐 Security Layer"]
-        S1[DID Authentication]
-        S2[VC Credentials]
-        S3[Agent Auth]
+        S1[mTLS Handshake]
+        S2[Certificate Validation]
+        S3[Agent Authorization]
     end
     
     SEC --> S1
@@ -228,23 +228,17 @@ graph TB
     G -->|Self-Heal| H
     
     style A fill:#D4C5C0,stroke:#9E7C7C,stroke-width:3px,color:#000
-    
     style Security fill:#E8C9C1,stroke:#9E7C7C,stroke-width:3px,color:#000
     style S1 fill:#9E7C7C,stroke:#9E7C7C,stroke-width:2px,color:#fff
     style S2 fill:#9E7C7C,stroke:#9E7C7C,stroke-width:2px,color:#fff
     style S3 fill:#9E7C7C,stroke:#9E7C7C,stroke-width:2px,color:#fff
-    
     style B fill:#E0AEB1,stroke:#9E7C7C,stroke-width:3px,color:#000
     style C fill:#C99A9A,stroke:#9E7C7C,stroke-width:3px,color:#000
-    
     style D fill:#E8C9C1,stroke:#9E7C7C,stroke-width:2px,color:#000
     style E fill:#E8C9C1,stroke:#9E7C7C,stroke-width:2px,color:#000
     style F fill:#E8C9C1,stroke:#9E7C7C,stroke-width:2px,color:#000
     style G fill:#E8C9C1,stroke:#9E7C7C,stroke-width:2px,color:#000
-    
     style H fill:#D4C5C0,stroke:#9E7C7C,stroke-width:3px,color:#000
 ```
-
-**Security Features:** DID Decentralized Identity • VC Verifiable Credentials • Multi-Agent Authentication
 
 </div>
