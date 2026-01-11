@@ -69,11 +69,8 @@ graph TB
     subgraph LANG_TOOLS[" "]
         L1["JavaScript"]
         L2["TypeScript"]
-        L3["Python"]
-        L4["C++"]
-        L5["Java"]
-        L6["HTML/CSS"]
-        L7["SQL"]
+        L3["C++"]
+        L4["HTML/CSS"]
     end
     
     %% AI & ML
@@ -117,8 +114,7 @@ graph TB
         B2["Express.js"]
         B3["Socket.io"]
         B4["REST API"]
-        B5["GraphQL"]
-        B6["RabbitMQ"]
+        B5["RabbitMQ"]
     end
     
     %% Cloud & DevOps
@@ -127,10 +123,9 @@ graph TB
         C2["AWS Lambda"]
         C3["AWS S3"]
         C4["AWS ECS/ECR"]
-        C5["API Gateway"]
-        C6["Docker"]
-        C7["Nginx"]
-        C8["GitHub Actions"]
+        C5["Docker"]
+        C6["Nginx"]
+        C7["GitHub Actions"]
     end
     
     %% Databases
