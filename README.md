@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suyash-agrahari-717260228/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suyashagrahari2121@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-website-mu-fawn-27.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://suyash-portfolio-v2.vercel.app/)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=C99A9A&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Fast+Learner;Building+Scalable+AI+Systems;Full-Stack+%2B+AI+Integration+Expert;Scaled+Products+from+40K+to+4.4M+Users;Multi-Agent+Systems+Architect;LangChain+%7C+Node.js+%7C+React+Specialist" alt="Typing SVG" />
 
