@@ -16,15 +16,16 @@
 
 ## 🚀 About Me
 
-**Software Engineer specializing in autonomous multi-agent systems and scalable full-stack solutions.**
+**Software Engineer specializing in autonomous multi-agent systems and scalable full-stack solutions. Founder of [SubhSandesh](https://subhsandesh.in).**
 
-I build intelligent systems that think and adapt. At HireQuotient, I engineered autonomous AI agents using LangChain, LangGraph, and vector databases that improved matching accuracy by 65%. I've architected multi-agent systems with A2A protocols where 10+ specialized agents collaborate to automate complex workflows—from content generation to self-healing code reviews. My work spans the full stack: optimizing backends (reduced API time from 29s to 1.5s), building React/Next.js frontends, and scaling systems from 40K to 4.4M users.
+I build intelligent systems that think and adapt. At **HireQuotient**, I engineered autonomous AI agents using LangChain, LangGraph, and vector databases that improved matching accuracy by 65%. I've architected multi-agent systems with A2A protocols where 10+ specialized agents collaborate to automate complex workflows — from content generation to self-healing code reviews. My work spans the full stack: optimizing backends (reduced API time from 29s to 1.5s), building React/Next.js frontends, and scaling systems from 40K to 4.4M users.
 
-**My edge:** Fast learner who thrives on complex challenges. I discovered coding in my third year of college and quickly moved to shipping production AI systems. Whether it's orchestrating agentic workflows, implementing RAG pipelines with vector search, or deploying scalable Dockerized solutions on AWS—I turn ambitious technical ideas into working products quickly.
+### 🎁 SubhSandesh
+Founder of **[SubhSandesh](https://subhsandesh.in)** — a platform for creating digital celebration and greeting pages for Indian occasions like weddings, festivals, and Raksha Bandhan. Designed, built, and shipped end to end. **2,200+ registered users across India.**
 
-<div align="center">
+### ⚡ My Edge
+I turn ambitious technical ideas into working products fast — orchestrating agentic workflows, implementing RAG pipelines with vector search, and deploying scalable Dockerized solutions on AWS.
 
-**Tech Stack:** `LangChain` • `Multi-Agent Systems` • `Vector Databases` • `OpenAI API` • `Node.js` • `React/Next.js` • `MongoDB` • `Docker` • `AWS`
 
 </div>
 
